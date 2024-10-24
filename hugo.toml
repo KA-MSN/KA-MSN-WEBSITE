@@ -4,7 +4,7 @@
 # theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 title = "KAMSN TECHNOLOGY"
-baseURL = "https://www.kamsn.com"
+baseURL = "https://kamsn.netlify.app"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
