@@ -1,5 +1,5 @@
 module github.com/KA-MSN/KA-MSN-WEBSITE
 
-go 1.23.2
+go 1.23
 
 require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20241022105359-0306b6a74db0 // indirect
