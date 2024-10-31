@@ -27,6 +27,15 @@ contentDir = "content/en"
 title = "KAMSN Fr"
 weight = 2
 contentDir = "content/fr"
+[languages.fr.params]
+description = "fr Where Web Meets Innovation and Data Sparks Success."
+
+[languages.es]
+title = "KAMSN Es"
+weight = 2
+contentDir = "content/es"
+[languages.es.params]
+description = "es Where Web Meets Innovation and Data Sparks Success."
 
 [sitemap]
 changefreq = "monthly"
