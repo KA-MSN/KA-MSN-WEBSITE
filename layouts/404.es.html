@@ -1,0 +1,13 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+    <article class="center cf pv5 measure-wide-l">
+        <h1>404 No Encontrado</h1>
+        <p>La página que solicitaste no se puede encontrar.</p>
+        <p>
+            <a href="{{ .Site.Home.RelPermalink }}">
+                Regresar a la página de inicio.
+            </a>
+        </p>
+    </article>
+{{ end }}
+
